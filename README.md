@@ -28,7 +28,7 @@ Para criação de animações 3D.
 **[Svelte Material UI](https://sveltematerialui.com/)**
 UI Framework com Material Design. 
 
-**[SVELMA](https://c0bra.github.io/svelma/)**
+**[Svelma](https://c0bra.github.io/svelma/)**
 Componentes Bulma para Svelte
 
 **[Sveltestrap](https://bestguy.github.io/sveltestrap/?path=/story/introduction--get-started)**
