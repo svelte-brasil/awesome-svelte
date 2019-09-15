@@ -1,4 +1,4 @@
-# libs-and-compontents-list
+# Awesome Svelte
 
 Template para criação de links
 ```
