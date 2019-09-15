@@ -3,12 +3,12 @@
 Template para criação de links
 ```
 Se a sessão já existe não precisa criar novamente
-*Nome da Seção*  
+**Nome da Seção**  
 **[Título](URL)**
 Rápida descrição
 ```
 
-*Básico*
+**Básico**
 
 **[Svelte](https://svelte.dev/)**
 Site oficial do Svelte.
@@ -23,7 +23,7 @@ Projeto para desenvolvimento mobile nativo com Svelte, baseado no Native Script.
 Para criação de animações 3D.
 
 
-*UI Frameworks*
+**UI Frameworks**
 
 **[Svelte Material UI](https://sveltematerialui.com/)**
 UI Framework com Material Design. 
