@@ -54,6 +54,8 @@ Aprende Svelte JS
 **[CodDev](https://www.youtube.com/playlist?list=PLhW5jRUibMHU7p6LgBId1VlfWRAC_Fud8)**
 Svelte
 
+**[Matheus Castiglioni](https://www.youtube.com/watch?v=e9MUb5-_Nno&list=PLt28SuGsHXH3PN2Tgs8oY4fH5tM7hRUfo&index=1)**
+Svelte
 
 
 
