@@ -39,6 +39,11 @@ Componentes com Bootstrap 4.
 **[Smelte](https://smelte.netlify.com/)**
 Componentes baseados no Vuetify com Material Design e Tailwind CSS
 
+**Libs**  
+
+**[svelte-routing](https://github.com/EmilTholin/svelte-routing)**
+Lib para criar rotas no svelte 
+
 **Playlist no youtube**
 
 **[CollabCode](https://www.youtube.com/watch?v=eo1WORTocIk&list=PLirko8T4cEmwGjG12nN15M_LYDBoMsZIm)**
