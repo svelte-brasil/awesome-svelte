@@ -62,6 +62,11 @@ Svelte
 **[Matheus Castiglioni](https://www.youtube.com/watch?v=e9MUb5-_Nno&list=PLt28SuGsHXH3PN2Tgs8oY4fH5tM7hRUfo&index=1)**
 Svelte
 
+**Twitch**  
+
+**[Projeto real com Svelte](twitch.tv/marcobrunobr)**
+Criando um projeto real com Svelte do início ao fim
+
 
 
 
