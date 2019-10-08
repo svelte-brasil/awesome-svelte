@@ -67,7 +67,10 @@ Svelte
 **[Projeto real com Svelte](twitch.tv/marcobrunobr)**
 Criando um projeto real com Svelte do início ao fim
 
+**Exemplos/Aplicações usando Svelte**
 
+**[Shop-Shop](https://github.com/paiva-thiago/shop-shop/)**
+Uma loja virtual estática desenvolvida com Svelte
 
 
 
