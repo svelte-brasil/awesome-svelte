@@ -65,6 +65,9 @@ Svelte
 **[Matheus Castiglioni](https://www.youtube.com/watch?v=e9MUb5-_Nno&list=PLt28SuGsHXH3PN2Tgs8oY4fH5tM7hRUfo&index=1)**
 Svelte
 
+**[Space Devs](https://www.youtube.com/playlist?list=PLZ8sofC1-EAbzsCJELSQBdiFukV7SraQh)**
+Controle de Estoque Utilizando Flask, SvelteJS, Docker e Bootstrap.
+
 **Twitch**  
 
 **[Projeto real com Svelte](twitch.tv/marcobrunobr)**
