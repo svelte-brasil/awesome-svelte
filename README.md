@@ -44,6 +44,9 @@ Componentes baseados no Vuetify com Material Design e Tailwind CSS
 **[svelte-routing](https://github.com/EmilTholin/svelte-routing)**
 Lib para criar rotas no svelte 
 
+**[svelte-carousel](https://github.com/beyonk-adventures/svelte-carousel)**
+Carousel no Svelte
+
 **Playlist no youtube**
 
 **[CollabCode](https://www.youtube.com/watch?v=eo1WORTocIk&list=PLirko8T4cEmwGjG12nN15M_LYDBoMsZIm)**
