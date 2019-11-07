@@ -78,5 +78,10 @@ Criando um projeto real com Svelte do início ao fim
 **[Shop-Shop](https://github.com/paiva-thiago/shop-shop/)**
 Uma loja virtual estática desenvolvida com Svelte
 
+**[Leja](https://github.com/paiva-thiago/leja/)**
+CMS estático
+
+**[OpenWhats](https://github.com/paiva-thiago/open-whats)**
+Aplicação para envio de mensagens de whatsapp sem precisar incluir nos contatos do celular.
 
 
