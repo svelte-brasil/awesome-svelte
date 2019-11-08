@@ -84,4 +84,7 @@ CMS estático
 **[OpenWhats](https://github.com/paiva-thiago/open-whats)**
 Aplicação para envio de mensagens de whatsapp sem precisar incluir nos contatos do celular.
 
+**[Trellu](https://github.com/valmisson/trellu)**
+Projeto inspirado no Trello, para gerenciamento de projeto
+
 
