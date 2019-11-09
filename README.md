@@ -48,7 +48,7 @@ Lib para criar rotas no svelte
 Carousel no Svelte
 
 **[svelte-preprocess](https://www.npmjs.com/package/svelte-preprocess)**
-Preprocess para Svelte
+Pré-processador para Svelte
 
 **Playlist no youtube**
 
