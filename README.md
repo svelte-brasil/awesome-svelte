@@ -48,7 +48,7 @@ Lib para criar rotas no svelte
 Carousel no Svelte
 
 **[svelte-preprocess](https://www.npmjs.com/package/svelte-preprocess)**
-Pré-processador para Svelte
+Pré-processador com suporte para `SCSS`, `Stylus`, `Less`, `PostCSS`, `Pug`, `Typescript`, `Coffeescript` e muito mais.
 
 **Playlist no youtube**
 
