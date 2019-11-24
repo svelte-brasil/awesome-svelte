@@ -50,6 +50,15 @@ Carousel no Svelte
 **[svelte-preprocess](https://www.npmjs.com/package/svelte-preprocess)**
 Pré-processador com suporte para `SCSS`, `Stylus`, `Less`, `PostCSS`, `Pug`, `Typescript`, `Coffeescript` e muito mais.
 
+**[svelte-fullscreen](https://github.com/andrelmlins/svelte-fullscreen)**
+Realiza fullscreen em elementos do DOM
+
+**[svelte-infinite-scroll](https://github.com/andrelmlins/svelte-infinite-scroll)**
+Insere a função de infinite scroll em listas
+
+**[svelte-resize-observer](https://github.com/andrelmlins/svelte-resize-observer)**
+Lib que detecta e informa mudanças de tamanho em elementos
+
 **Playlist no youtube**
 
 **[CollabCode](https://www.youtube.com/watch?v=eo1WORTocIk&list=PLirko8T4cEmwGjG12nN15M_LYDBoMsZIm)**
