@@ -87,6 +87,9 @@
 ## Roteamento
 
 - [Svelte Routing](https://github.com/EmilTholin/svelte-routing) - Uma biblioteca para criar rotas com suporte a SSR.
+- [Svelte SPA Router](https://github.com/ItalyPaleAle/svelte-spa-router) - Roteador para SPAs.
+- [Svero](https://github.com/kazzkiq/svero) - Roteador simples para SPAs que faz uso do pushState e History API.
+- [Svelte Router](https://github.com/spaceavocado/svelte-router) - Roteador inspirado no [Vue Router](https://router.vuejs.org/).
 
 ## Utilitários
 
