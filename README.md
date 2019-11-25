@@ -1,102 +1,113 @@
-# Awesome Svelte
+<p align="center">
+    <img src="logo.jpg" width="200" alt="Logo da comunidade Svelte Brasil" style="border-radius:6px;">    
+</p>
 
-Template para criação de links
+# Awesome Svelte Brasil
+
+> Uma lista de coisas incríveis relacionadas ao Svelte
+
+
+- [Recursos](#recursos)
+    - [Recursos Oficiais](#recursos-oficiais)
+    - [Comunidade](#comunidade)
+    - [Playlist no Youtube](#playlist-no-youtube)
+    - [Lives](#lives)
+- [Projetos usando Svelte](#projetos-usando-svelte)
+- [Exemplos](#exemplos)
+- [Bibliotecas e Componentes](#bibliotecas-e-componentes)
+    - [UI Layout](#ui-layout)
+    - [UI Componentes](#ui-componentes)
+    - [Roteamento](#roteamento)
+    - [Utilitários](#utilitários)
+- [Como Contribuir](#como-contribuir)
+
+
+# Recursos
+
+## Recursos Oficiais
+
+- [Site Oficial](https://svelte.dev/)
+    - [Tutorial](https://svelte.dev/tutorial)
+    - [API Docs](https://svelte.dev/docs)
+    - [Exemplos](https://svelte.dev/examples)
+    - [REPL](https://svelte.dev/repl)
+    - [Blog](https://svelte.dev/blog)
+- [GitHub Repo](https://github.com/sveltejs/svelte)
+- [Sapper](https://sapper.svelte.dev/) - SSR e PWA Framework para Svelte.
+- [Svelte Native](https://svelte-native.technology/) - Projeto para desenvolvimento Mobile Nativo com Svelte, baseado no NativeScript.
+- [Svelte GL](https://github.com/sveltejs/gl) - Projeto para criar animações 3D com WebGL API.
+
+## Comunidade
+
+- [Twitter](https://twitter.com/sveltebrasil)
+- [Grupo Telegram](https://t.me/sveltebrasil)
+- [Grupo Facebook](https://www.facebook.com/groups/sveltebrasil/)
+- [Página Facebook](https://www.facebook.com/sveltebrasil/)
+- [GitHub Repo](https://github.com/svelte-brasil)
+
+## Playlist no Youtube
+
+- [Canal Geek Dev](https://www.youtube.com/playlist?list=PL8fIRnD1uUSmU16gpVMEfJ_kjobR201vk) - Aprenda Svelte JS
+- [CodDev TV](https://www.youtube.com/playlist?list=PLhW5jRUibMHU7p6LgBId1VlfWRAC_Fud8) - Svelte
+- [Matheus Castiglioni](https://www.youtube.com/playlist?list=PLt28SuGsHXH3PN2Tgs8oY4fH5tM7hRUfo) - Svelte
+- [Space Devs](https://www.youtube.com/playlist?list=PLZ8sofC1-EAbzsCJELSQBdiFukV7SraQh) - Controle de Estoque Utilizando Flask, SvelteJS, Docker e Bootstrap.
+
+## Lives
+
+- [MarcoBrunoBR](twitch.tv/marcobrunobr) - Lives criando projetos real com Svelte do início ao fim.
+
+
+# Projetos usando Svelte
+
+- [Shop-Shop](https://github.com/paiva-thiago/shop-shop/) - Uma loja virtual estática desenvolvida com Svelte
+- [Leja](https://github.com/paiva-thiago/leja/) - Um CMS estático.
+- [OpenWhats](https://github.com/paiva-thiago/open-whats) - Aplicação para envio de mensagens de whatsapp sem precisar incluir nos contatos do celular.
+- [Trellu](https://github.com/valmisson/trellu) - Projeto inspirado no Trello, para gerenciamento de projeto.
+
+
+# Exemplos
+
+
+# Bibliotecas e Componentes
+
+## UI Layout
+
+- [Svelte Material UI](https://sveltematerialui.com/) - Material Design para Svelte. 
+- [Svelma](https://c0bra.github.io/svelma/) - Componentes Bulma para Svelte.
+- [Sveltestrap](https://bestguy.github.io/sveltestrap/?path=/story/introduction--get-started) - Componentes com Bootstrap 4.
+- [Smelte](https://smelte.netlify.com/) - Componentes baseados no Vuetify com Material Design e Tailwind CSS.
+
+## UI Componentes
+
+- [Svelte Carousel](https://github.com/beyonk-adventures/svelte-carousel) - Um carrossel leve e simples para o Svelte 3.
+- [Svelte Fullscreen](https://github.com/andrelmlins/svelte-fullscreen) - Realiza fullscreen em elementos do DOM.
+- [Svelte Infinite Scroll](https://github.com/andrelmlins/svelte-infinite-scroll) - Insere a função de infinite scroll em listas.
+- [Svelte Resize Observer](https://github.com/andrelmlins/svelte-resize-observer) - Lib que detecta e informa mudanças de tamanho em elementos.
+
+## Roteamento
+
+- [Svelte Routing](https://github.com/EmilTholin/svelte-routing) - Uma biblioteca para criar rotas com suporte a SSR.
+- [Svelte SPA Router](https://github.com/ItalyPaleAle/svelte-spa-router) - Roteador para SPAs.
+- [Svero](https://github.com/kazzkiq/svero) - Roteador simples para SPAs que faz uso do pushState e History API.
+- [Svelte Router](https://github.com/spaceavocado/svelte-router) - Roteador inspirado no [Vue Router](https://router.vuejs.org/).
+
+## Utilitários
+
+- [Svelte Preprocess](https://www.npmjs.com/package/svelte-preprocess) - Pré-processador com suporte para `SCSS`, `Stylus`, `Less`, `PostCSS`, `Pug`, `Typescript`, `Coffeescript` e muito mais.
+
+
+# Como Contribuir
+
+1. Certifique-se de colocar as coisas na categoria certa!
+2. Sempre adicione seus itens ao final de uma lista.
+3. Se não existe uma categoria criar uma nova.
+
 ```
-Se a sessão já existe não precisa criar novamente
+## Nova Categoria
 
-**Nome da Seção**  
-
-**[Título](URL)**
-Rápida descrição
-
+- [Nome da Lib](Link_Repositorio) - Rápida descrição
 ```
 
-**Básico**
+<br>
 
-**[Svelte](https://svelte.dev/)**
-Site oficial do Svelte.
-
-**[Sapper](https://sapper.svelte.dev/)**
-Server Site Render e PWA para Svelte.
-
-**[Svelte Native](https://svelte-native.technology/)**
-Projeto para desenvolvimento mobile nativo com Svelte, baseado no Native Script.
-
-**[Svelte GL](https://github.com/sveltejs/gl)**
-Para criação de animações 3D.
-
-**UI Frameworks**
-
-**[Svelte Material UI](https://sveltematerialui.com/)**
-UI Framework com Material Design. 
-
-**[Svelma](https://c0bra.github.io/svelma/)**
-Componentes Bulma para Svelte.
-
-**[Sveltestrap](https://bestguy.github.io/sveltestrap/?path=/story/introduction--get-started)**
-Componentes com Bootstrap 4.
-
-**[Smelte](https://smelte.netlify.com/)**
-Componentes baseados no Vuetify com Material Design e Tailwind CSS
-
-**Libs**  
-
-**[svelte-routing](https://github.com/EmilTholin/svelte-routing)**
-Lib para criar rotas no svelte 
-
-**[svelte-carousel](https://github.com/beyonk-adventures/svelte-carousel)**
-Carousel no Svelte
-
-**[svelte-preprocess](https://www.npmjs.com/package/svelte-preprocess)**
-Pré-processador com suporte para `SCSS`, `Stylus`, `Less`, `PostCSS`, `Pug`, `Typescript`, `Coffeescript` e muito mais.
-
-**[svelte-fullscreen](https://github.com/andrelmlins/svelte-fullscreen)**
-Realiza fullscreen em elementos do DOM
-
-**[svelte-infinite-scroll](https://github.com/andrelmlins/svelte-infinite-scroll)**
-Insere a função de infinite scroll em listas
-
-**[svelte-resize-observer](https://github.com/andrelmlins/svelte-resize-observer)**
-Lib que detecta e informa mudanças de tamanho em elementos
-
-**Playlist no youtube**
-
-**[CollabCode](https://www.youtube.com/watch?v=eo1WORTocIk&list=PLirko8T4cEmwGjG12nN15M_LYDBoMsZIm)**
-Cuso de Svelte 3.0
-
-**[CollabCode](https://www.youtube.com/watch?v=bqYXroqUxlA&list=PLirko8T4cEmwhs9Mu5z5Ih_BZDNdh-SI0)**
-CollabStore loja OpenSource para Streamer sendo desenvolvido com Svelte
-
-
-**[Canal Geek Dev](https://www.youtube.com/playlist?list=PL8fIRnD1uUSmU16gpVMEfJ_kjobR201vk)**
-Aprende Svelte JS
-
-**[CodDev](https://www.youtube.com/playlist?list=PLhW5jRUibMHU7p6LgBId1VlfWRAC_Fud8)**
-Svelte
-
-**[Matheus Castiglioni](https://www.youtube.com/watch?v=e9MUb5-_Nno&list=PLt28SuGsHXH3PN2Tgs8oY4fH5tM7hRUfo&index=1)**
-Svelte
-
-**[Space Devs](https://www.youtube.com/playlist?list=PLZ8sofC1-EAbzsCJELSQBdiFukV7SraQh)**
-Controle de Estoque Utilizando Flask, SvelteJS, Docker e Bootstrap.
-
-**Twitch**  
-
-**[Projeto real com Svelte](twitch.tv/marcobrunobr)**
-Criando um projeto real com Svelte do início ao fim
-
-**Exemplos/Aplicações usando Svelte**
-
-**[Shop-Shop](https://github.com/paiva-thiago/shop-shop/)**
-Uma loja virtual estática desenvolvida com Svelte
-
-**[Leja](https://github.com/paiva-thiago/leja/)**
-CMS estático
-
-**[OpenWhats](https://github.com/paiva-thiago/open-whats)**
-Aplicação para envio de mensagens de whatsapp sem precisar incluir nos contatos do celular.
-
-**[Trellu](https://github.com/valmisson/trellu)**
-Projeto inspirado no Trello, para gerenciamento de projeto
-
-
+[Ir para o Topo](#awesome-svelte-brasil)
