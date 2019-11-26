@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="logo.jpg" width="200" alt="Logo da comunidade Svelte Brasil" style="border-radius:6px;">    
+    <img src="logo.jpg" width="200" alt="Logo da comunidade Svelte Brasil">    
 </p>
 
 # Awesome Svelte Brasil
@@ -19,6 +19,7 @@
     - [UI Componentes](#ui-componentes)
     - [Roteamento](#roteamento)
     - [Utilitários](#utilitários)
+- [Templates](#templates)
 - [Como Contribuir](#como-contribuir)
 
 
@@ -94,6 +95,14 @@
 ## Utilitários
 
 - [Svelte Preprocess](https://www.npmjs.com/package/svelte-preprocess) - Pré-processador com suporte para `SCSS`, `Stylus`, `Less`, `PostCSS`, `Pug`, `Typescript`, `Coffeescript` e muito mais.
+
+
+# Templates
+
+- [Svelte template](https://github.com/sveltejs/template) - Template para criar aplicativos básicos.
+- [Svelte template Webpack](https://github.com/sveltejs/template-webpack) - Template para criar aplicativos básicos com Webpack.
+- [Sapper template](https://github.com/sveltejs/sapper-template) - Template padrão do Sapper, disponível para Rollup e webpack.
+- [Svelte Electron template](https://github.com/valmisson/svelte-electron-template) - Este é um template para criar aplicativos Electron com o SvelteJS
 
 
 # Como Contribuir
