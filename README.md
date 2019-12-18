@@ -73,6 +73,10 @@
 
 # Bibliotecas e Componentes
 
+## Animação
+
+- [svelte-typewriter](https://github.com/henriquehbr/svelte-typewriter) - Um efeito de digitação (typewriter) simples e reutilizável para suas aplicações Svelte
+
 ## UI Layout
 
 - [Svelte Material UI](https://sveltematerialui.com/) - Material Design para Svelte. 
