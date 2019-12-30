@@ -109,7 +109,7 @@
 
 - [Svelte template](https://github.com/sveltejs/template) - Template para criar aplicativos básicos.
 - [Svelte template Webpack](https://github.com/sveltejs/template-webpack) - Template para criar aplicativos básicos com Webpack.
-- [template-routity-dotenv-sass-prettier](svelte-brasil/template-routity-dotenv-sass-prettier) - Template svelte configurado com Routify, Sass, Dotenv, prettier e rollup.
+- [template-routity-dotenv-sass-prettier](https://github.com/svelte-brasil/template-routity-dotenv-sass-prettier) - Template svelte configurado com Routify, Sass, Dotenv, prettier e rollup.
 
 ## Sapper
 
@@ -124,7 +124,7 @@
 
 ## NativeScript
 
-- [svelte-native-template](halfnelson/svelte-native-template) - Template para criar APPs mobile com NativeScript e Svelte
+- [svelte-native-template](https://github.com/halfnelson/svelte-native-template) - Template para criar APPs mobile com NativeScript e Svelte
 
 
 # Como Contribuir
