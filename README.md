@@ -105,9 +105,21 @@
 
 # Templates
 
+## Svelte Básico
+
 - [Svelte template](https://github.com/sveltejs/template) - Template para criar aplicativos básicos.
 - [Svelte template Webpack](https://github.com/sveltejs/template-webpack) - Template para criar aplicativos básicos com Webpack.
+- [template-routity-dotenv-sass-prettier](svelte-brasil/template-routity-dotenv-sass-prettier) - Template svelte configurado com Routify, Sass, Dotenv, prettier e rollup.
+
+## Com Sapper
+
 - [Sapper template](https://github.com/sveltejs/sapper-template) - Template padrão do Sapper, disponível para Rollup e webpack.
+- [sapper-sass-env-storybook-prettier](https://github.com/svelte-brasil/sapper-sass-env-storybook-prettier) - Template Sapper configurado com Sass, Dotenv, Storybook, prettier e webpack.
+- [sapper-boilerplate-stylus-env-axios](https://github.com/svelte-brasil/sapper-boilerplate-stylus-env-axios) - Template Sapper configurado com Stylus, Dotenv, Storybook, prettier, axios e webpack.
+
+
+## Com Electron
+
 - [Svelte Electron template](https://github.com/valmisson/svelte-electron-template) - Este é um template para criar aplicativos Electron com o SvelteJS
 
 
