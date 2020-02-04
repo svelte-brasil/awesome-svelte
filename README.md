@@ -99,6 +99,10 @@
 - [Svelte Router](https://github.com/spaceavocado/svelte-router) - Roteador inspirado no [Vue Router](https://router.vuejs.org/).
 - [Routify](https://github.com/sveltech/routify-starter) Roteador inspirado no roteamento do Sapper
 
+## Teste
+
+- [Svelte Testing Library](https://testing-library.com/docs/svelte-testing-library/intro) - Utilitários de teste para Svelte
+
 ## Utilitários
 
 - [Svelte Preprocess](https://www.npmjs.com/package/svelte-preprocess) - Pré-processador com suporte para `SCSS`, `Stylus`, `Less`, `PostCSS`, `Pug`, `Typescript`, `Coffeescript` e muito mais.
