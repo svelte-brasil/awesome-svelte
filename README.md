@@ -83,13 +83,18 @@
 - [Svelma](https://c0bra.github.io/svelma/) - Componentes Bulma para Svelte.
 - [Sveltestrap](https://bestguy.github.io/sveltestrap/?path=/story/introduction--get-started) - Componentes com Bootstrap 4.
 - [Smelte](https://smelte.netlify.com/) - Componentes baseados no Vuetify com Material Design e Tailwind CSS.
+- [Carbon](https://ibm.github.io/carbon-components-svelte/?path=/story/accordion--default) - Conjunto de componentes do design system da IBM
 
 ## UI Componentes
 
 - [Svelte Carousel](https://github.com/beyonk-adventures/svelte-carousel) - Um carrossel leve e simples para o Svelte 3.
 - [Svelte Fullscreen](https://github.com/andrelmlins/svelte-fullscreen) - Realiza fullscreen em elementos do DOM.
 - [Svelte Infinite Scroll](https://github.com/andrelmlins/svelte-infinite-scroll) - Insere a função de infinite scroll em listas.
-- [Svelte Resize Observer](https://github.com/andrelmlins/svelte-resize-observer) - Lib que detecta e informa mudanças de tamanho em elementos.
+- [Svelte Resize Observer](https://github.com/andrelmlins/svelte-resize-observer) - Detecta e informa mudanças de tamanho em elementos.
+- [SvelteJs Forms](https://github.com/mdauner/sveltejs-forms) - Gerenciador de formulários
+- [Svelte Copy to Clipboard](https://github.com/henriquecaraujo/svelte-copy-to-clipboard) - Componente para realizar cópia de textos.
+- [Svelte Facebook Login](https://github.com/andrelmlins/svelte-facebook-login) - Realiza login com o facebook
+- [Svelte Input Mask](https://github.com/xnimorz/svelte-input-mask) - Insere máscara de data nos campos de texto
 
 ## Roteamento
 
@@ -98,6 +103,10 @@
 - [Svero](https://github.com/kazzkiq/svero) - Roteador simples para SPAs que faz uso do pushState e History API.
 - [Svelte Router](https://github.com/spaceavocado/svelte-router) - Roteador inspirado no [Vue Router](https://router.vuejs.org/).
 - [Routify](https://github.com/sveltech/routify-starter) Roteador inspirado no roteamento do Sapper
+
+## Teste
+
+- [Svelte Testing Library](https://testing-library.com/docs/svelte-testing-library/intro) - Utilitários de teste para Svelte
 
 ## Utilitários
 
@@ -118,7 +127,6 @@
 - [sapper-sass-env-storybook-prettier](https://github.com/svelte-brasil/sapper-sass-env-storybook-prettier) - Template Sapper configurado com Sass, Dotenv, Storybook, prettier e webpack.
 - [sapper-boilerplate-stylus-env-axios](https://github.com/svelte-brasil/sapper-boilerplate-stylus-env-axios) - Template Sapper configurado com Stylus, Dotenv, Storybook, prettier, axios e webpack.
 
-
 ## Electron
 
 - [Svelte Electron template](https://github.com/valmisson/svelte-electron-template) - Este é um template para criar aplicativos Electron com o SvelteJS
@@ -126,6 +134,10 @@
 ## NativeScript
 
 - [svelte-native-template](https://github.com/halfnelson/svelte-native-template) - Template para criar APPs mobile com NativeScript e Svelte
+
+## Bibliotecas
+
+- [svelte-library-template](https://github.com/henriquecaraujo/svelte-library-template) - Template para criação de bibliotecas para Svelte.
 
 
 # Como Contribuir
