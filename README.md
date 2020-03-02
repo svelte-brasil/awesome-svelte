@@ -103,6 +103,7 @@
 - [Svero](https://github.com/kazzkiq/svero) - Roteador simples para SPAs que faz uso do pushState e History API.
 - [Svelte Router](https://github.com/spaceavocado/svelte-router) - Roteador inspirado no [Vue Router](https://router.vuejs.org/).
 - [Routify](https://github.com/sveltech/routify-starter) Roteador inspirado no roteamento do Sapper
+- [YRV](https://github.com/pateketrueke/yrv) Construído sobre o abstract-nested-router
 
 ## Teste
 
