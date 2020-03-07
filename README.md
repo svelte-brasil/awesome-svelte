@@ -140,6 +140,8 @@
 
 - [svelte-library-template](https://github.com/henriquecaraujo/svelte-library-template) - Template para criação de bibliotecas para Svelte.
 
+# Tutoriais
+- [Tutorial Rápido](https://t.co/iLM6sJR0UN?amp=1) - PDF para consulta rápida das principais features do Svelte
 
 # Como Contribuir
 
