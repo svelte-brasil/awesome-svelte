@@ -12,7 +12,7 @@
     - [Comunidade](#comunidade)
     - [Playlist no Youtube](#playlist-no-youtube)
     - [Lives](#lives)
-- [Tutoriais](#turoriais)
+- [Tutoriais](#tutoriais)
 - [Projetos usando Svelte](#projetos-usando-svelte)
 - [Exemplos](#exemplos)
 - [Bibliotecas e Componentes](#bibliotecas-e-componentes)
