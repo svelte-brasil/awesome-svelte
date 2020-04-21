@@ -70,6 +70,7 @@
 -  [Hello World](https://svelte.dev/repl/f103940f981a45808ed58d55d1b72790)
 -  [Bind Values](https://svelte.dev/repl/dab8dc4a8d3442168e066df981d1b650)
 -  [Carousel - svelte-carousel](https://svelte.dev/repl/64bc4bc4420c43d2b120ecec54c3b2b1)
+-  [CRUD com Svelte+Sapper+Bulma](https://github.com/danielschmitz/svelte-sapper-bulma-crud)
 
 # Bibliotecas e Componentes
 
