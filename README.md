@@ -21,7 +21,7 @@
     - [Roteamento](#roteamento)
     - [Utilitários](#utilitários)
 - [Templates](#templates)
-- [Extensões para VSCode(#extensao-para-vscode)
+- [Extensões para VSCode](#extensao-para-vscode)
 - [Como Contribuir](#como-contribuir)
 
 
