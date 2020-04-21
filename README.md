@@ -12,6 +12,7 @@
     - [Comunidade](#comunidade)
     - [Playlist no Youtube](#playlist-no-youtube)
     - [Lives](#lives)
+- [Tutoriais](#turoriais)
 - [Projetos usando Svelte](#projetos-usando-svelte)
 - [Exemplos](#exemplos)
 - [Bibliotecas e Componentes](#bibliotecas-e-componentes)
@@ -20,6 +21,7 @@
     - [Roteamento](#roteamento)
     - [Utilitários](#utilitários)
 - [Templates](#templates)
+- [Extensões para VSCode(#Extensão para VSCode)
 - [Como Contribuir](#como-contribuir)
 
 
@@ -57,6 +59,8 @@
 
 - [MarcoBrunoBR](twitch.tv/marcobrunobr) - Lives criando projetos real com Svelte do início ao fim.
 
+# Tutoriais
+- [Tutorial Rápido](https://t.co/iLM6sJR0UN?amp=1) - PDF para consulta rápida das principais features do Svelte
 
 # Projetos usando Svelte
 
@@ -141,8 +145,16 @@
 
 - [svelte-library-template](https://github.com/henriquecaraujo/svelte-library-template) - Template para criação de bibliotecas para Svelte.
 
-# Tutoriais
-- [Tutorial Rápido](https://t.co/iLM6sJR0UN?amp=1) - PDF para consulta rápida das principais features do Svelte
+# Extensão para VSCode
+- [Svelte](https://marketplace.visualstudio.com/items?itemName=JamesBirtles.svelte-vscode) - Suporte a linguagem Svelte
+- [Svelte Intellisense](https://marketplace.visualstudio.com/items?itemName=ardenivanov.svelte-intellisense) - Fornece suporte para dados, eventos, slots etc. para os componentes.
+- [Svelte 3 Snippets](https://marketplace.visualstudio.com/items?itemName=fivethree.vscode-svelte-snippets) - Atalhos para os recursos do Svelte 3
+- [Svelte Require](https://marketplace.visualstudio.com/items?itemName=nickyhajal.vs-code-svelte-require) - Ajuda no requerimento arquivos svelte, dependências e módulos principais em um componente svelte
+- [Svelte Component Extractor](https://marketplace.visualstudio.com/items?itemName=proverbialninja.svelte-extractor) - Cria um novo componente como código selecionado em outro.
+- [Svelte Auto Import](https://marketplace.visualstudio.com/items?itemName=pivaszbs.svelte-autoimport) - Localiza, analisa e fornece automaticamente ações de código e conclusão de código para todas as importações disponíveis. Funciona com arquivos TypeScript, Javascript e Svelte
+- [Svelte Type Checker](https://marketplace.visualstudio.com/items?itemName=halfnelson.svelte-type-checker-vscode) - Checa os tipos das variáveis e props com base no Svelte 3
+- [svelte-server](https://marketplace.visualstudio.com/items?itemName=timeshift.svelte-server)
+
 
 # Como Contribuir
 
@@ -151,6 +163,8 @@
 3. Se não existe uma categoria criar uma nova.
 
 ```
+# Novo título
+
 ## Nova Categoria
 
 - [Nome da Lib](Link_Repositorio) - Rápida descrição
