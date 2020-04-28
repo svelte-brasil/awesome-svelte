@@ -126,6 +126,7 @@
 - [Svelte template](https://github.com/sveltejs/template) - Template para criar aplicativos básicos.
 - [Svelte template Webpack](https://github.com/sveltejs/template-webpack) - Template para criar aplicativos básicos com Webpack.
 - [template-routity-dotenv-sass-prettier](https://github.com/svelte-brasil/template-routity-dotenv-sass-prettier) - Template svelte configurado com Routify, Sass, Dotenv, prettier e rollup.
+- [svelte-boilerplate](https://github.com/henriquehbr/svelte-boilerplate) - Template svelte configurado com Less.js, TypeScript e Rollup
 
 ## Sapper
 
