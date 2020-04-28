@@ -156,21 +156,6 @@
 - [Svelte Type Checker](https://marketplace.visualstudio.com/items?itemName=halfnelson.svelte-type-checker-vscode) - Checa os tipos das variáveis e props com base no Svelte 3
 - [svelte-server](https://marketplace.visualstudio.com/items?itemName=timeshift.svelte-server)
 
-
-# Como Contribuir
-
-1. Certifique-se de colocar as coisas na categoria certa!
-2. Sempre adicione seus itens ao final de uma lista.
-3. Se não existe uma categoria criar uma nova.
-
-```
-# Novo título
-
-## Nova Categoria
-
-- [Nome da Lib](Link_Repositorio) - Rápida descrição
-```
-
 <br>
 
 [Ir para o Topo](#awesome-svelte-brasil)
