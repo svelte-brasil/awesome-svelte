@@ -57,7 +57,7 @@
 
 ## Lives
 
-- [MarcoBrunoBR](https://twitch.tv/marcobrunobr) - Lives criando projetos real com Svelte do início ao fim.
+- [marcobrunodev](https://twitch.tv/marcobrunodev) - Lives criando projetos real com Svelte do início ao fim.
 
 # Tutoriais
 - [Tutorial Rápido](https://t.co/iLM6sJR0UN?amp=1) - PDF para consulta rápida das principais features do Svelte
