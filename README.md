@@ -57,7 +57,7 @@
 
 ## Lives
 
-- [MarcoBrunoBR](twitch.tv/marcobrunobr) - Lives criando projetos real com Svelte do início ao fim.
+- [marcobrunodev](https://twitch.tv/marcobrunodev) - Lives criando projetos real com Svelte do início ao fim.
 
 # Tutoriais
 - [Tutorial Rápido](https://t.co/iLM6sJR0UN?amp=1) - PDF para consulta rápida das principais features do Svelte
@@ -69,12 +69,14 @@
 - [OpenWhats](https://github.com/paiva-thiago/open-whats) - Aplicação para envio de mensagens de whatsapp sem precisar incluir nos contatos do celular.
 - [Trellu](https://github.com/valmisson/trellu) - Projeto inspirado no Trello, para gerenciamento de projeto.
 
-
 # Exemplos
 -  [Hello World](https://svelte.dev/repl/f103940f981a45808ed58d55d1b72790)
 -  [Bind Values](https://svelte.dev/repl/dab8dc4a8d3442168e066df981d1b650)
 -  [Carousel - svelte-carousel](https://svelte.dev/repl/64bc4bc4420c43d2b120ecec54c3b2b1)
 -  [CRUD com Svelte+Sapper+Bulma](https://github.com/danielschmitz/svelte-sapper-bulma-crud)
+
+# Comparações e Análises
+-  [Revelt](https://github.com/andrelmlins/revelt) - Análise de um projeto utilizando as tecnologias React e Svelte.
 
 # Bibliotecas e Componentes
 
@@ -100,6 +102,9 @@
 - [Svelte Copy to Clipboard](https://github.com/henriquecaraujo/svelte-copy-to-clipboard) - Componente para realizar cópia de textos.
 - [Svelte Facebook Login](https://github.com/andrelmlins/svelte-facebook-login) - Realiza login com o facebook
 - [Svelte Input Mask](https://github.com/xnimorz/svelte-input-mask) - Insere máscara de data nos campos de texto
+- [Svelte Grid Responsive](https://github.com/andrelmlins/svelte-grid-responsive) - Sistema de grid responsivo baseado no Bootstrap.
+- [Svelte Scroll Shadow](https://github.com/andrelmlins/svelte-scroll-shadow) - Componente que personaliza a rolagem e insere sombra quando a rolagem existe
+- [Svelte Loading Spinners](https://github.com/Schum123/svelte-loading-spinners) - Uma coleção de componentes de carregamento
 
 ## Roteamento
 
