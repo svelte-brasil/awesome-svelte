@@ -22,7 +22,7 @@
     - [Utilitários](#utilitários)
 - [Templates](#templates)
 - [Extensões para VSCode](#extensão-para-vscode)
-- [Como Contribuir](#como-contribuir)
+- [Como Contribuir](https://github.com/svelte-brasil/awesome-svelte/blob/master/CONTRIBUTING.md)
 
 
 # Recursos
