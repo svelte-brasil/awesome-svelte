@@ -93,7 +93,7 @@
 - [Carbon](https://ibm.github.io/carbon-components-svelte/?path=/story/accordion--default) - Conjunto de componentes do design system da IBM.
 - [Svelte Chota](https://alexxnb.github.io/svelte-chota/) - Biblioteca de componentes UI para Svelte feita com o pequenino chota.css.
 - [Svelteit](https://docs.svelteit.dev/) - Biblioteca de componentes UI/UX minimalista para projetos Svelte e Sapper.
-- [Svelte Mui](https://svelte-mui.ibbf.ru/) - Conjunto de UI componentes bem leves (~30 KB minzipped) para Svelte, inspirado no Material Design do Google.  
+- [Svelte Mui](https://svelte-mui.ibbf.ru/) - Conjunto de componentes UI bem leves (~30 KB minzipped) para Svelte, inspirado no Material Design do Google.  
 
 ## UI Componentes
 
