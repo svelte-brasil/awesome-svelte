@@ -90,7 +90,10 @@
 - [Svelma](https://c0bra.github.io/svelma/) - Componentes Bulma para Svelte.
 - [Sveltestrap](https://bestguy.github.io/sveltestrap/?path=/story/introduction--get-started) - Componentes com Bootstrap 4.
 - [Smelte](https://smelte.netlify.com/) - Componentes baseados no Vuetify com Material Design e Tailwind CSS.
-- [Carbon](https://ibm.github.io/carbon-components-svelte/?path=/story/accordion--default) - Conjunto de componentes do design system da IBM
+- [Carbon](https://ibm.github.io/carbon-components-svelte/?path=/story/accordion--default) - Conjunto de componentes do design system da IBM.
+- [Svelte Chota](https://alexxnb.github.io/svelte-chota/) - Biblioteca de componentes UI para Svelte feita com o pequenino chota.css.
+- [Svelteit](https://docs.svelteit.dev/) - Biblioteca de componentes UI/UX minimalista para projetos Svelte e Sapper.
+- [Svelte Mui](https://svelte-mui.ibbf.ru/) - Conjunto de UI componentes bem leves (~30 KB minzipped) para Svelte, inspirado no Material Design do Google.  
 
 ## UI Componentes
 
