@@ -59,6 +59,10 @@
 
 - [marcobrunodev](https://twitch.tv/marcobrunodev) - Lives criando projetos real com Svelte do início ao fim.
 
+## Outros sites
+
+-[Curso de Svelte (Fabio Vedovelli)](https://classes.vedovelli.com.br/?class=curso-de-svelte-introducao) - Curso introdutório ao Svelte.
+
 # Tutoriais
 - [Tutorial Rápido](https://t.co/iLM6sJR0UN?amp=1) - PDF para consulta rápida das principais features do Svelte
 
