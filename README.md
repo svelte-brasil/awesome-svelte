@@ -117,7 +117,7 @@
 
 - [Svelte Routing](https://github.com/EmilTholin/svelte-routing) - Uma biblioteca para criar rotas com suporte a SSR.
 - [Svelte SPA Router](https://github.com/ItalyPaleAle/svelte-spa-router) - Roteador para SPAs.
-- [Svero](https://github.com/kazzkiq/svero) - Roteador simples para SPAs que faz uso do pushState e History API.
+- [Abstract State Router](https://github.com/TehShrike/abstract-state-router) - Roteador abstrato para utilizar com vários frameworks.
 - [Svelte Router](https://github.com/spaceavocado/svelte-router) - Roteador inspirado no [Vue Router](https://router.vuejs.org/).
 - [Routify](https://github.com/sveltech/routify-starter) Roteador inspirado no roteamento do Sapper
 - [YRV](https://github.com/pateketrueke/yrv) Construído sobre o abstract-nested-router
