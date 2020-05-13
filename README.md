@@ -72,8 +72,7 @@
 - [Leja](https://github.com/paiva-thiago/leja/) - Um CMS estático.
 - [OpenWhats](https://github.com/paiva-thiago/open-whats) - Aplicação para envio de mensagens de whatsapp sem precisar incluir nos contatos do celular.
 - [Trellu](https://github.com/valmisson/trellu) - Projeto inspirado no Trello, para gerenciamento de projeto.
-
-# Exemplos
+- [Projeto do Curso Svelte](https://github.com/vedovelli/curso-svelte) - Projeto desenvolvido no Curso de Svelte do Fabio Vedovelli
 -  [Hello World](https://svelte.dev/repl/f103940f981a45808ed58d55d1b72790)
 -  [Bind Values](https://svelte.dev/repl/dab8dc4a8d3442168e066df981d1b650)
 -  [Carousel - svelte-carousel](https://svelte.dev/repl/64bc4bc4420c43d2b120ecec54c3b2b1)
