@@ -22,6 +22,7 @@
     - [Utilitários](#utilitários)
 - [Templates](#templates)
 - [Extensões para VSCode](#extensão-para-vscode)
+- [Artigos](#artigos)
 - [Como Contribuir](https://github.com/svelte-brasil/awesome-svelte/blob/master/CONTRIBUTING.md)
 
 
@@ -96,7 +97,8 @@
 - [Carbon](https://ibm.github.io/carbon-components-svelte/?path=/story/accordion--default) - Conjunto de componentes do design system da IBM.
 - [Svelte Chota](https://alexxnb.github.io/svelte-chota/) - Biblioteca de componentes UI para Svelte feita com o pequenino chota.css.
 - [Svelteit](https://docs.svelteit.dev/) - Biblioteca de componentes UI/UX minimalista para projetos Svelte e Sapper.
-- [Svelte Mui](https://svelte-mui.ibbf.ru/) - Conjunto de componentes UI bem leves (~30 KB minzipped) para Svelte, inspirado no Material Design do Google.  
+- [Svelte Mui](https://svelte-mui.ibbf.ru/) - Conjunto de componentes UI bem leves (~30 KB minzipped) para Svelte, inspirado no Material Design do Google.
+- [MDBSvelte](https://saurav.tech/mdbsvelte/?path=/story/intoduction--getting-started) Biblioteca de componentes desenvolvida com Material Design e Boostrat.
 
 ## UI Componentes
 
@@ -168,5 +170,13 @@
 - [svelte-server](https://marketplace.visualstudio.com/items?itemName=timeshift.svelte-server)
 
 <br>
+
+# Artigos
+- [Front-end com o Compilador Svelte](https://inside.contabilizei.com.br/front-end-com-compilador-svelte-a54ccbfbe5a6)
+- [Experiências com Svelte por um desenvolvedor React [pt-BR]](https://dev.to/ninetails/experiencias-com-svelte-por-um-desenvolvedor-react-pt-br-4mj9)
+- [Svelte 3: Começando com Svelte 3](https://medium.com/@oieduardorabelo/svelte-3-come%C3%A7ando-com-svelte-3-1c38983850b6)
+- [Conheça Svelte, o framework “compilador”](https://ezdevs.com.br/conheca-svelte-o-framework-compilador/)
+- [Svelte: o framework JavaScript que não é um framework](https://blog.geekhunter.com.br/svelte-o-framework-javascript-que-nao-e-um-framework/)
+
 
 [Ir para o Topo](#awesome-svelte-brasil)
