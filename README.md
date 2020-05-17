@@ -113,6 +113,7 @@
 - [Svelte Grid Responsive](https://github.com/andrelmlins/svelte-grid-responsive) - Sistema de grid responsivo baseado no Bootstrap.
 - [Svelte Scroll Shadow](https://github.com/andrelmlins/svelte-scroll-shadow) - Componente que personaliza a rolagem e insere sombra quando a rolagem existe
 - [Svelte Loading Spinners](https://github.com/Schum123/svelte-loading-spinners) - Uma coleção de componentes de carregamento
+- [Svelte DND Action](https://github.com/isaacHagoel/svelte-dnd-action) - Clica e Arrasta.
 
 ## Roteamento
 
