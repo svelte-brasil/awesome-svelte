@@ -1,8 +1,10 @@
-<p align="center">
-  <img src="logo.jpg" width="300" alt="Logo da comunidade Svelte Brasil" />
-  
-  <h1>Awesome Svelte Brasil</h1>
-</p>
+<div align="center">
+
+<img src="logo.jpg" width="300" alt="Logo da comunidade Svelte Brasil" />
+
+<h1>Awesome Svelte Brasil</h1>
+
+</div>
 
 <p align="center">
   <sub><i>Outros projetos interessantes</i></sub>
