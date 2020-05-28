@@ -1,8 +1,17 @@
 <p align="center">
-    <img src="logo.jpg" width="200" alt="Logo da comunidade Svelte Brasil">    
+  <img src="logo.jpg" width="300" alt="Logo da comunidade Svelte Brasil" />
+  <h1>Awesome Svelte Brasil</h1>
 </p>
 
-# Awesome Svelte Brasil
+<p align="center">
+  <sub><i>Outros projetos interessantes</i></sub>
+  <br/>
+  <a href="https://github.com/svelte-brasil/eventos">Eventos Svelte Brasil</a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/svelte-brasil/criando-sua-biblioteca-svelte">Criado sua biblioteca Svelte</a>
+</p>
+
+<br />
+<br />
 
 > Uma lista de coisas incríveis relacionadas ao Svelte
 
