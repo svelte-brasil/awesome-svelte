@@ -128,6 +128,7 @@
 - [Svelte DND Action](https://github.com/isaacHagoel/svelte-dnd-action) - Clica e Arrasta.
 - [Svelte Document Title](https://github.com/andrelmlins/svelte-document-title) - Gerenciador de `document.title`.
 - [Svelte Internet Connection](https://github.com/andrelmlins/svelte-internet-connection) - Detector de conexão com a internet.
+- [Svelte Avatar](https://github.com/svelte-brasil/awesome-svelte) - Componente simples de avatar com fallback para iniciais.
 
 ## Roteamento
 
