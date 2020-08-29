@@ -55,9 +55,10 @@
 
 - [Twitter](https://twitter.com/sveltebrasil)
 - [Grupo Telegram](https://t.me/sveltebrasil)
+- [Youtube](https://www.youtube.com/channel/UCp8jamqJRGg86eMnewxjWng)
+- [GitHub Repo](https://github.com/svelte-brasil)
 - [Grupo Facebook](https://www.facebook.com/groups/sveltebrasil/)
 - [Página Facebook](https://www.facebook.com/sveltebrasil/)
-- [GitHub Repo](https://github.com/svelte-brasil)
 
 ## Playlist no Youtube
 
