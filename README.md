@@ -146,6 +146,9 @@
 ## Utilitários
 
 - [Svelte Preprocess](https://www.npmjs.com/package/svelte-preprocess) - Pré-processador com suporte para `SCSS`, `Stylus`, `Less`, `PostCSS`, `Pug`, `Typescript`, `Coffeescript` e muito mais.
+- [Svelte i18n](https://www.npmjs.com/package/svelte-i18n) - Biblioteca de internacionalização.
+- [Svelte Loadable](https://www.npmjs.com/package/svelte-loadable) - Biblioteca para auxiliar o carregamento dinâmico de componentes.
+- [Svelte CSS vars](https://www.npmjs.com/package/svelte-css-vars) - Utiliário para ter variáveis de CSS reativas.
 
 # Templates
 
