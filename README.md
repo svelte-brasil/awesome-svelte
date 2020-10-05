@@ -103,6 +103,7 @@
 
 ## UI Layout
 
+- [Svelte Materialify](https://svelte-materialify.vercel.app/) - Material Design para Svelte.
 - [Svelte Material UI](https://sveltematerialui.com/) - Material Design para Svelte.
 - [Svelma](https://c0bra.github.io/svelma/) - Componentes Bulma para Svelte.
 - [Sveltestrap](https://bestguy.github.io/sveltestrap/?path=/story/introduction--get-started) - Componentes com Bootstrap 4.
