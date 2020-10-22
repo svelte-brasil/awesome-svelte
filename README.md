@@ -195,7 +195,8 @@
 - [Svelte Component Extractor](https://marketplace.visualstudio.com/items?itemName=proverbialninja.svelte-extractor) - Cria um novo componente como código selecionado em outro.
 - [Svelte Auto Import](https://marketplace.visualstudio.com/items?itemName=pivaszbs.svelte-autoimport) - Localiza, analisa e fornece automaticamente ações de código e conclusão de código para todas as importações disponíveis. Funciona com arquivos TypeScript, Javascript e Svelte
 - [Svelte Type Checker](https://marketplace.visualstudio.com/items?itemName=halfnelson.svelte-type-checker-vscode) - Checa os tipos das variáveis e props com base no Svelte 3
-- [svelte-server](https://marketplace.visualstudio.com/items?itemName=timeshift.svelte-server)
+- [Svelte Server](https://marketplace.visualstudio.com/items?itemName=timeshift.svelte-server) - Servido integrado ao VS Code para projetos Svelte
+-[Svelty Snippets](https://marketplace.visualstudio.com/items?itemName=icebr9.svelty-snippets) - Conjunto de snippets para Svelte
 
 <br>
 
