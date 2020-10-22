@@ -113,6 +113,7 @@
 - [Svelteit](https://docs.svelteit.dev/) - Biblioteca de componentes UI/UX minimalista para projetos Svelte e Sapper.
 - [Svelte Mui](https://svelte-mui.ibbf.ru/) - Conjunto de componentes UI bem leves (~30 KB minzipped) para Svelte, inspirado no Material Design do Google.
 - [MDBSvelte](https://saurav.tech/mdbsvelte/?path=/story/intoduction--getting-started) Biblioteca de componentes desenvolvida com Material Design e Boostrat.
+- [Notus Svelte](https://www.creative-tim.com/learning-lab/tailwind/svelte/overview/notus?ref=ns-index&_ga=2.131577935.1110073640.1603367230-1934189105.1603367230) - Conjunto de componentes desenvolvidos com Tailwind CSS
 
 ## UI Componentes
 
