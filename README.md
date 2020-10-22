@@ -90,6 +90,7 @@
 - [Bind Values](https://svelte.dev/repl/dab8dc4a8d3442168e066df981d1b650)
 - [Carousel - svelte-carousel](https://svelte.dev/repl/64bc4bc4420c43d2b120ecec54c3b2b1)
 - [CRUD com Svelte+Sapper+Bulma](https://github.com/danielschmitz/svelte-sapper-bulma-crud)
+- [2048 Svelte](https://github.com/GuilhermeBohnstedt/2048-svelte) - Jogo 2048 recriado em Svelte
 
 # Comparações e Análises
 
