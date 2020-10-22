@@ -196,7 +196,7 @@
 - [Svelte Auto Import](https://marketplace.visualstudio.com/items?itemName=pivaszbs.svelte-autoimport) - Localiza, analisa e fornece automaticamente ações de código e conclusão de código para todas as importações disponíveis. Funciona com arquivos TypeScript, Javascript e Svelte
 - [Svelte Type Checker](https://marketplace.visualstudio.com/items?itemName=halfnelson.svelte-type-checker-vscode) - Checa os tipos das variáveis e props com base no Svelte 3
 - [Svelte Server](https://marketplace.visualstudio.com/items?itemName=timeshift.svelte-server) - Servido integrado ao VS Code para projetos Svelte
--[Svelty Snippets](https://marketplace.visualstudio.com/items?itemName=icebr9.svelty-snippets) - Conjunto de snippets para Svelte
+- [Svelty Snippets](https://marketplace.visualstudio.com/items?itemName=icebr9.svelty-snippets) - Conjunto de snippets para Svelte
 
 <br>
 
@@ -207,5 +207,10 @@
 - [Svelte 3: Começando com Svelte 3](https://medium.com/@oieduardorabelo/svelte-3-come%C3%A7ando-com-svelte-3-1c38983850b6)
 - [Conheça Svelte, o framework “compilador”](https://ezdevs.com.br/conheca-svelte-o-framework-compilador/)
 - [Svelte: o framework JavaScript que não é um framework](https://blog.geekhunter.com.br/svelte-o-framework-javascript-que-nao-e-um-framework/)
+
+# Outras fontes
+
+- [Made with Svelte](https://madewithsvelte.com/)
+- [Awesome Svelte Resource](https://awesomeopensource.com/project/ryanatkn/awesome-svelte-resources)
 
 [Ir para o Topo](#awesome-svelte-brasil)
