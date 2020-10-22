@@ -188,7 +188,7 @@
 
 # Extensão para VSCode
 
-- [Svelte](https://marketplace.visualstudio.com/items?itemName=JamesBirtles.svelte-vscode) - Suporte a linguagem Svelte
+- [Svelte for VS Code](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) - Suporte a linguagem Svelte
 - [Svelte Intellisense](https://marketplace.visualstudio.com/items?itemName=ardenivanov.svelte-intellisense) - Fornece suporte para dados, eventos, slots etc. para os componentes.
 - [Svelte 3 Snippets](https://marketplace.visualstudio.com/items?itemName=fivethree.vscode-svelte-snippets) - Atalhos para os recursos do Svelte 3
 - [Svelte Require](https://marketplace.visualstudio.com/items?itemName=nickyhajal.vs-code-svelte-require) - Ajuda no requerimento arquivos svelte, dependências e módulos principais em um componente svelte
