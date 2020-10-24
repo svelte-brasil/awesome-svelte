@@ -94,6 +94,7 @@
 # Comparações e Análises
 
 - [Revelt](https://github.com/andrelmlins/revelt) - Análise de um projeto utilizando as tecnologias React e Svelte.
+- [Will it Scale?](https://github.com/halfnelson/svelte-it-will-scale#readme) - Comparando o "ponto de inflação" da bundle entre projetos React e Svelte
 
 # Bibliotecas e Componentes
 
