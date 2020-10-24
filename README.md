@@ -91,6 +91,10 @@
 - [Carousel - svelte-carousel](https://svelte.dev/repl/64bc4bc4420c43d2b120ecec54c3b2b1)
 - [CRUD com Svelte+Sapper+Bulma](https://github.com/danielschmitz/svelte-sapper-bulma-crud)
 
+# Jogos usando Svelte
+
+- [2048 Svelte](https://github.com/GuilhermeBohnstedt/2048-svelte) - Jogo 2048 recriado em Svelte
+
 # Comparações e Análises
 
 - [Revelt](https://github.com/andrelmlins/revelt) - Análise de um projeto utilizando as tecnologias React e Svelte.
