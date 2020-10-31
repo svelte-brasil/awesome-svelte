@@ -138,6 +138,7 @@
 - [Svelte Internet Connection](https://github.com/andrelmlins/svelte-internet-connection) - Detector de conexão com a internet.
 - [Svelte Avatar](https://github.com/wdtamagi/svelte-avatar) - Componente simples de avatar com fallback para iniciais.
 - [PROI-UI](https://proi-ui.com/?ref=madewithsvelte.com) - Componentes sveltes em Beta
+- [Svelte Github Login](https://github.com/andrelmlins/svelte-github-login) - Realiza login com o github.
 
 ## Roteamento
 
