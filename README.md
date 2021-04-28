@@ -90,6 +90,7 @@
 - [Bind Values](https://svelte.dev/repl/dab8dc4a8d3442168e066df981d1b650)
 - [Carousel - svelte-carousel](https://svelte.dev/repl/64bc4bc4420c43d2b120ecec54c3b2b1)
 - [CRUD com Svelte+Sapper+Bulma](https://github.com/danielschmitz/svelte-sapper-bulma-crud)
+- [Finance Notes App](https://financenotes.com.br/) - Finance Notes é um web aplicativo PWA para auxiliar no controle e domínio das suas finanças pessoais.
 
 # Jogos usando Svelte
 
@@ -148,6 +149,7 @@
 - [Svelte Router](https://github.com/spaceavocado/svelte-router) - Roteador inspirado no [Vue Router](https://router.vuejs.org/).
 - [Routify](https://github.com/sveltech/routify-starter) Roteador inspirado no roteamento do Sapper
 - [YRV](https://github.com/pateketrueke/yrv) Construído sobre o abstract-nested-router
+- [Svelte Client Router](https://github.com/arthurgermano/svelte-client-router) - O roteador para Svelte SPA!.
 
 ## Teste
 
