@@ -47,7 +47,8 @@
   - [REPL](https://svelte.dev/repl)
   - [Blog](https://svelte.dev/blog)
 - [GitHub Repo](https://github.com/sveltejs/svelte)
-- [Sapper](https://sapper.svelte.dev/) - SSR e PWA Framework para Svelte.
+- [Sveltekit](https://kit.svelte.dev/) - SSR, Roteamento e PWA Framework para Svelte.
+- [Sapper](https://sapper.svelte.dev/) - SSR e PWA Framework para Svelte (Este projeto foi depreciado).
 - [Svelte Native](https://svelte-native.technology/) - Projeto para desenvolvimento Mobile Nativo com Svelte, baseado no NativeScript.
 - [Svelte GL](https://github.com/sveltejs/gl) - Projeto para criar animações 3D com WebGL API.
 
@@ -59,6 +60,10 @@
 - [GitHub Repo](https://github.com/svelte-brasil)
 - [Grupo Facebook](https://www.facebook.com/groups/sveltebrasil/)
 - [Página Facebook](https://www.facebook.com/sveltebrasil/)
+
+### Comunidade Global
+
+- [Svelte Society](https://sveltesociety.dev/) - comunidade global de Svelte. 
 
 ## Playlist no Youtube
 
