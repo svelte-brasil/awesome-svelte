@@ -83,6 +83,7 @@
 # Tutoriais
 
 - [Tutorial Rápido](https://t.co/iLM6sJR0UN?amp=1) - PDF para consulta rápida das principais features do Svelte
+- [Cheat Sheet](https://sveltebrasil.dev/#/cheatsheet) - Guia rápido para aprender Svelte em português.
 
 # Projetos usando Svelte
 
@@ -167,11 +168,13 @@
 - [Svelte Loadable](https://www.npmjs.com/package/svelte-loadable) - Biblioteca para auxiliar o carregamento dinâmico de componentes.
 - [Svelte CSS vars](https://www.npmjs.com/package/svelte-css-vars) - Utiliário para ter variáveis de CSS reativas.
 - [svelte-promisable-stores](https://www.npmjs.com/package/svelte-promisable-stores) - Coleção de stores para guardar Promises. Útil para lidar com promises de requisições de API.
+- [Svelte Adapter](https://github.com/pngwn/svelte-adapter) - Utilitário para utilizar Svelte em projetos Vue e React.
 
 ## Frameworks
 
 - [JungleJS](https://www.junglejs.org/) - Monte sites estáticos com Svelte + GraphQL
 - [Elder.js](https://elderguide.com/tech/elderjs/) - Gerador de site estático com foco em SEO
+- [NodeGUI](https://svelte.nodegui.org/) - Framework para desenvolvimento de aplicações desktop com Svelte.
 
 # Templates
 
