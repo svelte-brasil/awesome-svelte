@@ -156,6 +156,7 @@
 - [Routify](https://github.com/sveltech/routify-starter) Roteador inspirado no roteamento do Sapper
 - [YRV](https://github.com/pateketrueke/yrv) Construído sobre o abstract-nested-router
 - [Svelte Client Router](https://github.com/arthurgermano/svelte-client-router) - O roteador para Svelte SPA!.
+- [Elegua](https://github.com/howesteve/elegua) - Roteador SPAs rápido, reativo, pequeno e descomplicado.
 
 ## Teste
 
