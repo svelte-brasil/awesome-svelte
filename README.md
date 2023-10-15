@@ -216,6 +216,10 @@
 - [Svelte Type Checker](https://marketplace.visualstudio.com/items?itemName=halfnelson.svelte-type-checker-vscode) - Checa os tipos das variáveis e props com base no Svelte 3
 - [Svelte Server](https://marketplace.visualstudio.com/items?itemName=timeshift.svelte-server) - Servido integrado ao VS Code para projetos Svelte
 - [Svelty Snippets](https://marketplace.visualstudio.com/items?itemName=icebr9.svelty-snippets) - Conjunto de snippets para Svelte
+- [svelte-format](https://marketplace.visualstudio.com/items?itemName=melihaltintas.svelte-format) - Formatador de arquivos .svelte inspirado no vue-format
+- [Svelte Require](https://marketplace.visualstudio.com/items?itemName=nickyhajal.vs-code-svelte-require) - Auxilia na importação que recursos em arquivos .svelte
+- [Svelte Preview](https://marketplace.visualstudio.com/items?itemName=RafaelMartinez.svelte-preview) - Permite pré-visualizar seus componentes em desenvolvimento em uma segunda tela dentro do vscode
+- [Svelte Component Creator](https://marketplace.visualstudio.com/items?itemName=proverbialninja.svelte-component-creator) - Cria um componente a partr de um trecho de html selecionado em outro componente, importa e utiliza o novo componente criado
 
 <br>
 
