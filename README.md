@@ -146,6 +146,7 @@
 - [Svelte Avatar](https://github.com/wdtamagi/svelte-avatar) - Componente simples de avatar com fallback para iniciais.
 - [PROI-UI](https://proi-ui.com/?ref=madewithsvelte.com) - Componentes sveltes em Beta
 - [Svelte Github Login](https://github.com/andrelmlins/svelte-github-login) - Realiza login com o github.
+- [Konsta UI](https://konstaui.com/) - Componentes para projetos mobile multiplaforma
 
 ## Roteamento
 
