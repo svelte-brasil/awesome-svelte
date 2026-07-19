@@ -171,6 +171,7 @@
 - [Svelte CSS vars](https://www.npmjs.com/package/svelte-css-vars) - Utiliário para ter variáveis de CSS reativas.
 - [svelte-promisable-stores](https://www.npmjs.com/package/svelte-promisable-stores) - Coleção de stores para guardar Promises. Útil para lidar com promises de requisições de API.
 - [Svelte Adapter](https://github.com/pngwn/svelte-adapter) - Utilitário para utilizar Svelte em projetos Vue e React.
+- [Markstream Svelte](https://github.com/Simon-He95/markstream-vue) - Renderizador de Markdown em streaming para Svelte 5 e SvelteKit, criado para chats de IA e saídas LLM incompletas, com Mermaid, KaTeX, blocos de código via Monaco, HTML seguro e SSR.
 
 ## Frameworks
 
