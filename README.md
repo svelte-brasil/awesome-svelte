@@ -97,6 +97,7 @@
 - [Carousel - svelte-carousel](https://svelte.dev/repl/64bc4bc4420c43d2b120ecec54c3b2b1)
 - [CRUD com Svelte+Sapper+Bulma](https://github.com/danielschmitz/svelte-sapper-bulma-crud)
 - [Finance Notes App](https://financenotes.com.br/) - Finance Notes é um web aplicativo PWA para auxiliar no controle e domínio das suas finanças pessoais.
+- [Svelte Commerce](https://github.com/misiki-in/svelte-commerce) - Loja virtual headless em SvelteKit, com conectores para 26 plataformas de e-commerce, como Medusa, Shopify, Saleor, Vendure e WooCommerce.
 
 # Jogos usando Svelte
 
