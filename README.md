@@ -97,6 +97,7 @@
 - [Carousel - svelte-carousel](https://svelte.dev/repl/64bc4bc4420c43d2b120ecec54c3b2b1)
 - [CRUD com Svelte+Sapper+Bulma](https://github.com/danielschmitz/svelte-sapper-bulma-crud)
 - [Finance Notes App](https://financenotes.com.br/) - Finance Notes é um web aplicativo PWA para auxiliar no controle e domínio das suas finanças pessoais.
+- [Formulário de contato com SvelteKit e FCaptcha](https://github.com/WebDecoy/FCaptcha/tree/main/examples/sveltekit) - Exemplo executável com CAPTCHA auto-hospedado e verificação do token no servidor. Guia em inglês.
 
 # Jogos usando Svelte
 
